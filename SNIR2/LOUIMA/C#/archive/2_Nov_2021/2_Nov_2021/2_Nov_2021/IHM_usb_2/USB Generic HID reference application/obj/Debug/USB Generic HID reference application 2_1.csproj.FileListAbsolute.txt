@@ -1,0 +1,11 @@
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Development\USB Generic HID reference application 2_0_0_0\USB Generic HID reference application\bin\Debug\USB Generic HID reference application.exe
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Development\USB Generic HID reference application 2_0_0_0\USB Generic HID reference application\bin\Debug\USB Generic HID reference application.pdb
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Development\USB Generic HID reference application 2_0_0_0\USB Generic HID reference application\bin\Debug\usbGenericHidCommunications.dll
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Development\USB Generic HID reference application 2_0_0_0\USB Generic HID reference application\bin\Debug\usbGenericHidCommunications.pdb
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Development\USB Generic HID reference application 2_0_0_0\USB Generic HID reference application\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Development\USB Generic HID reference application 2_0_0_0\USB Generic HID reference application\obj\Debug\USB_Generic_HID_reference_application.Form1.resources
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Development\USB Generic HID reference application 2_0_0_0\USB Generic HID reference application\obj\Debug\USB_Generic_HID_reference_application.Properties.Resources.resources
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Development\USB Generic HID reference application 2_0_0_0\USB Generic HID reference application\obj\Debug\ResGen.read.1.tlog
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Development\USB Generic HID reference application 2_0_0_0\USB Generic HID reference application\obj\Debug\ResGen.write.1.tlog
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Development\USB Generic HID reference application 2_0_0_0\USB Generic HID reference application\obj\Debug\USB Generic HID reference application.exe
+C:\Users\Simon Inns\Documents\Visual Studio 2010\Projects\Development\USB Generic HID reference application 2_0_0_0\USB Generic HID reference application\obj\Debug\USB Generic HID reference application.pdb
